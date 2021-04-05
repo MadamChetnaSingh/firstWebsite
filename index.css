@@ -1,3 +1,5 @@
-#somu22 {
-  color: red;
+.test {
+  border-style: dashed;
+  border-color: red;
+  border-width: 3px;
 }
